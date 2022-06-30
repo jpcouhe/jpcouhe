@@ -38,9 +38,8 @@
 - Jeux (société, vidéos)
 
 </br>
-
-![GHstats](https://github-readme-stats.vercel.app/api?username=jpcouhe&show_icons=true)
-
+  
+![GHstats](https://github-readme-stats.vercel.app/api?username=jpcouhe&theme=gruvbox&show_icons=true)
 
 
     
